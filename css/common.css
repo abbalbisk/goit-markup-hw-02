@@ -1,0 +1,16 @@
+.global {
+  font-family: "Roboto", sans-serif, "Raleway", sans-serif;
+  color: #2e2f42;
+}
+h2 {
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+
+}
+
+ul li {
+  list-style-type: none;
+  font-weight: 500;
+}

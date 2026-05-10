@@ -1,0 +1,49 @@
+.logos {
+  font-size: 18px;
+  line-height: 133%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.mainlogo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 133%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+    list-style-type: none;
+    text-decoration: none;
+}
+.portfo a {
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.portfo a:hover {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #404bbf;
+}
+
+.address li a {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+
+.address li a:hover {
+    
+  
+        color: #404bbf;
+}
