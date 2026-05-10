@@ -1,7 +1,7 @@
 .logos {
   font-size: 18px;
 font-weight: 700;
-  line-height: 24px;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -9,7 +9,7 @@ font-weight: 700;
 .mainlogo {
   font-weight: 700;
   font-size: 18px;
-  line-height: 24px;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
@@ -18,18 +18,14 @@ font-weight: 700;
 }
 .portfo a {
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-decoration: none;
+font-weight: 500;
 }
 
 .portfo a:hover {
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 0.02em;
   color: #404bbf;
 }
 .portfo a:focus {
@@ -39,9 +35,9 @@ font-weight: 700;
 .address li a {
   font-style: normal;
   text-decoration: none;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
